@@ -8,6 +8,14 @@
 	<packaging>war</packaging>
 	<name>AppSecurityDemoScen2</name>
 	<description>ApplicationSecurityDemo</description>
+	
+	<properties>
+        <sonar.projectKey>anirudde_AppSecDemoScen2</sonar.projectKey>
+  	<sonar.organization>anirudde</sonar.organization>
+  	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	</properties>
+	
+		
 	<dependencies>
 		<dependency>
 			<groupId>commons-beanutils</groupId>
