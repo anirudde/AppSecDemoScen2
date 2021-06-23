@@ -10,9 +10,9 @@
 	<description>ApplicationSecurityDemo</description>
 	
 	<properties>
-        <sonar.projectKey>anirudde_AppSecDemoScen2</sonar.projectKey>
-  	<sonar.organization>anirudde</sonar.organization>
-  	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  		<sonar.projectKey>ASDN</sonar.projectKey>
+  		<sonar.organization>anirudde</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	
 		
