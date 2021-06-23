@@ -9,11 +9,11 @@
 	<name>AppSecurityDemoScen2</name>
 	<description>ApplicationSecurityDemo</description>
 	
-		<properties>
-  			<sonar.projectKey>ASDN</sonar.projectKey>
-  			<sonar.organization>anirudde</sonar.organization>
-  			<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		</properties>
+	<properties>
+  	<sonar.projectKey>ASDNew</sonar.projectKey>
+  	<sonar.organization>anirudde</sonar.organization>
+  	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	</properties>
 	
 		
 	<dependencies>
